@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France and Ireland, defender of the faith &amp;c. to the master and keepers, or warden and comminaltie of the mysterie and art of stationers of the citie of London ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22140</idno>
+            <idno type="STC">STC 8548</idno>
+            <idno type="STC">ESTC S3813</idno>
+            <idno type="EEBO-CITATION">33151026</idno>
+            <idno type="OCLC">ocm 33151026</idno>
+            <idno type="VID">28872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28872)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:87)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France and Ireland, defender of the faith &amp;c. to the master and keepers, or warden and comminaltie of the mysterie and art of stationers of the citie of London ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1617]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For confirming the license of Robert Barker as printer to the Crown.</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>"Giuen vnder Our Priuie Seale at Our Pallace of Westminster the sixe and twentieth day of Ianuary, in the fourteenth yere of Our Raigne of England, France and Ireland, and of Scotland the fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barker, Robert, d. 1645.</term>
+               <term>Printing industry --  England --  London.</term>
+               <term>London (England) --  Imprints.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28872:1"/>
+            <!-- PDF PAGE 3 -->
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES by the Grace of GOD, King of England, Scotland, France and Ire<g ref="char:EOLhyphen"/>land, Defender of the Faith, &amp;c.</signed>
+               <salute>To the Maſter and Keepers, or Wardens and Comminaltie of the myſterie and Art of <hi>Stationers</hi> of the Citie of LONDON, and to all <hi>Booke-ſellers</hi> and <hi>Printers</hi> what<g ref="char:EOLhyphen"/>ſoeuer, and to all others to whom theſe preſents ſhall appertaine, Greeting.</salute>
+            </opener>
+            <p>WHEREAS Our late ſiſter <hi>Elizabeth</hi> late Queene of England, by her Highneſſe Letters Pattents vnder the Great Seale of England, bearing date at Weſtminſter the eight day of Auguſt, in the one and thirtieth yeere of her Raigne, reciting as therein is recited, did of her eſpeciall Grace, certaine knowledge, and meere motion for herſelfe, her Heires and Succeſſors, giue and grant vnto her welbeloued Subiect <hi>Robert Barker,</hi> ſonne of <hi>Christopher Barker,</hi> the Office of her Printer of all and ſingular Statutes, Bookes, little Books, Acts of Parliament, Proclamations, Iniunctions, and Bibles, and New-Teſtaments whatſoeuer in the Engliſh tongue or Language, of any Tranſlation whatſoeuer, with Notes or without Notes, at any time then before, or at any time afterwards Printed or to be Printed by Commandement, Priuiledge or Authoritie of the ſaid Queene, her Heires or Succeſſors, and of all other Bookes whatſoeuer, which the ſaid late Queene or her Succeſſors had, or ſhould command to be vſed for the Seruice of GOD in the Churches or Chappels of this Realme of England, and of all other Volumes and things whatſoeuer, aſwell in the Engliſh tongue, or Language alone, as alſo in any other Tongue, or Language mixed with, or tranſlated into the Engliſh by whatſoeuer name, terme, title or ſence, names, termes, titles or ſences they or any of them then were, or from thenceforth ſhould be called, knowne or vnderſtood, which by the Authoritie of the Parliament of the ſaid Realme of England, either then was, or from thenceforth ſhould be made, Printed or publiſhed (except onely the rudiments of Grammer, and the Inſtitutions in the Latine tongue,) And of all and ſingular the premiſſes, the ſaid late Queene by the ſaid Letters Pattents, made ordeined and ap<g ref="char:EOLhyphen"/>pointed the ſaid <hi>Robert Barker</hi> to be her Printer. To haue, enioy, occupy and exerciſe the ſaid Office, together with all profits, commodities aduantages, preheminences and priuiledges, to the ſame Office in any wiſe belonging or appertayning, vnto the ſaid <hi>Robert Barker,</hi> and his Aſſignes by himſelfe or his ſufficient Deputie or Deputies, immediatly after the death or deceaſe of the ſaid <hi>Chriſtopher Barker,</hi> for and during the natural life of the ſaid <hi>Robert Barker,</hi> (which ſaid <hi>Chriſtopher Barker</hi> is ſithence dead as We are giuen to vnderſtand,) And furthermore the ſaid late Queene did by her ſaid Letters Pattents, giue and grant vnto the ſaid <hi>Robert Barker</hi> during his naturall life authority, priuiledge and faculty of Printing all and all maner of Abridgements of all and ſingular Statutes, and Acts of Parliament whatſoeuer, thentofore made, or from thenceforth to be made, As by the ſaid Let<g ref="char:EOLhyphen"/>ters Pattents more at large appeareth. Which ſaid Office ſo granted by the ſaid late Queene by her ſaid Letters Pattents as afore<g ref="char:EOLhyphen"/>ſaid to the ſaid <hi>Robert Barker,</hi> and all and euery thing and things therein conteined, We by Our Letters Pattents vnder the great Seale of England, bearing date the ix. day of Iuly, In the firſt yeere of Our Raigne of England, France and Ireland, haue for Vs, Our heires and Succeſſors, confirmed vnto the ſaid <hi>Robert Barker</hi> during his naturall life. And whereas you the Maſter, and Keepers or Wardens and Comminaltie of the myſterie or Art of <hi>Stationers</hi> of the City of London, and Booke-ſellers, Printers and Booke-binders do from time to time (as we are giuen to vnderſtand) intrude vpon the Office of Our ſaid Printer, contrary to the true intent and meaning of the aboue mentioned Letters Pattents, and do daily practiſe and goe about to defeat the ſaid <hi>Robert Barker,</hi> and his Deputies or Aſſignes, of the benefit, aduantage, commoditie and profit of his ſaid Grant, or of a great part of the ſame, by printing part of the Booke of Common Prayer, and by Printing of other the Bookes and things expreſſed, men<g ref="char:EOLhyphen"/>tioned, conteined and intended in the aboue mentioned Letters Pattents, vnder colour of ſome ſmall alterations, either in lea<g ref="char:EOLhyphen"/>uing out part, or adding ſome Notes or other things thereto, or with ſome other ſmall enlargement, alteration or abridgement thereof:</p>
+            <p>NOW, foraſmuch as it was Our true intent and meaning at the time of the making or granting of the ſaid confirmation; That the ſaid <hi>Robert Barker</hi> and his Deputies and Aſſignes, ſhould and might fully and in ample maner without any queſtion or oppoſition, haue and enioy the ſole Printing of all and euery Bookes and things, and of euery part of the ſame Bookes men<g ref="char:EOLhyphen"/>tioned and intended in the ſaid Letters Pattents, according to the true intent and purport thereof, in all maner of Volumes whatſoeuer: Notwithſtanding the leauing out of any part of the ſaid Bookes or things, or any of them, or making any Quo<g ref="char:EOLhyphen"/>tations or marginall notes vpon them, or any of them: And to the end that neither the ſaid <hi>Robert Barker,</hi> nor his Deputies, nor Aſſignes, may not in any wiſe be defeated or impeached thereof by any colourable or indirect courſes; Therefore We doe by theſe preſents for Vs, Our Heires and Succeſſors ſtraightly charge, require, forbid, prohibite, and inhibite you, and eue<g ref="char:EOLhyphen"/>ry of you, and all other Our Subiects whatſoeuer; That neither you, or they, nor any of you or them, during the terme of the naturall life of the ſaid <hi>Robert Barker,</hi> ſhall directly or indirectly, by any wayes colour or meanes Imprint, binde, or ſell, or cauſe to be Imprinted, bound, or ſold, in any place or places whatſoeuer within Our Realmes or Dominions, any Volume or Vo<g ref="char:EOLhyphen"/>lumes, Booke or bookes, worke or workes, or any part or parcell of them, whereof the Imprinting is, or are granted or men<g ref="char:EOLhyphen"/>tioned, or intended to be granted as aforeſaid to the ſaid <hi>Robert Barker</hi> by the aboue recited Letters Pattents, although there be or ſhall be Additions, Notes or Quotations to or vpon the ſame, or any Abridgement or Abſtract of the ſame, or of any part therof, vpon paine of forfeiture of all and euery ſuch Booke or bookes, and Worke or works ſo to be Imprinted, contrary to the tenour of this Our Royall commandement, The ſame to be ſeized to the vſe of Vs, Our Heires and Succeſſors, by the ſaid <hi>Ro<g ref="char:EOLhyphen"/>bert Barker,</hi> his Deputies of Aſſignes; And alſo vpon paine of Our further diſpleaſure and heauie indignation. Willing and hereby ſtraightly charging and commanding all and ſingular Maiors, Sheriffes, Iuſtices of Peace, Bailiffes, Conſtables, and all other Our Officers, Miniſters and Subiects whatſoeuer, to be ayding and aſſiſting vnto the ſaid <hi>Robert Barker,</hi> his Deputies and Aſſignes, in the execution of this Our Royall pleaſure and commandement, as they and euery of them will anſwere to the con<g ref="char:EOLhyphen"/>trary at their vttermoſt perils. Prouided alwayes neuertheleſſe, and it is Our true intent and meaning, not to inhibite you or your Succeſſors from time to time by theſe preſents, to Imprint or cauſe to be Imprinted, binde, or ſell, or cauſe to be bound or ſold, all, euery, or any the Bookes, which We by any Our Letters Pattents by expreſſe words or termes therein mentioned, haue granted to you and your ſucceſſors.</p>
+            <closer>
+               <dateline>Giuen vnder Our Priuie Seale at Our Pallace of Weſtminſter <date>the ſixe and twentieth day of Ianuary, in the fourteenth yere of Our Raigne of England, France and Ireland, and of Scotland the fiftieth.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+            <closer>
+               <signed>Ia. Mylles dep. Fra. Mylles.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
